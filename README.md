@@ -1,2 +1,2 @@
 # Recommending-Drugs-Decision-Tree
-[Link to application](https://tarantuviez-16.herokuapp.com/)
+[Link to application](https://tarantuviez-13.herokuapp.com/)
