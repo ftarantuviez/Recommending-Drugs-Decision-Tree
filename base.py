@@ -150,6 +150,6 @@ if st.button("Run"):
 st.write("""
 ## App repository
 
-[Github](https://github.com/ftarantuviez/)TODO
+[Github](https://github.com/ftarantuviez/Recommending-Drugs-Decision-Tree)
 """)
 # / This app repository
